@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIKAAAAAkCgAAIAAEIMgIACAAABAAEAAAABAACAAACA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAQAgAAAAAAAABAAAAAAIAAAAAAUBAAAEAIA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYAAAAUAAJAAAAABAIAAAAAAgAIAAAAAQAAACABACA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAACAAAAIBAARAAAAgAAAAAAQAgAoAAAA=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="colors">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAEEAAAAAIAAAAAAAAAAAAAIAAAAAAAAgA=</HashCode>
+      <FileName>Constants.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
